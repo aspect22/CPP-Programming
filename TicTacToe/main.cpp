@@ -207,6 +207,7 @@ void Player2Turn()
 
 void AITurn()
 {
+    // gay ai
     activePlayer = player2;
     selectedAi = 0;
     srand(time(nullptr));
